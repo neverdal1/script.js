@@ -44,4 +44,16 @@ h1 {
   font-weight: bold;
   font-size: 1.5rem;
 }
-.scale
+.scale{
+
+}
+.light {
+  background-color: #eed1d1;
+  color: black;
+
+}
+.dark{
+  background-color: #000;
+  color:white;
+
+}
